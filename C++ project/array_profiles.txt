@@ -1,0 +1,529 @@
+2
+5
+Josh M
+Cobra_23
+josh.man@gmail.com
+USA
+nOpassworD65
+Do you know me? Definetely not.
+623
+3
+Elden Ring
+FromSoftware Inc.
+экшен
+25
+2
+2022
+Восстань, погасшая душа! Междуземье ждёт своего повелителя. Пусть благодать приведёт тебя к Кольцу Элден.
+https://www.youtube.com/watch?v=AKXiKBnzpBQ
+10
+17,1
+EldenRing.exe
+60000
+Grand Theft Auto III – The Definitive Edition
+Rockstar Games
+экшен
+19
+1
+2023
+Grand Theft Auto III. Все начинается в Либерти-Сити. Grand Theft Auto III позволяет идти куда угодно и делать все, что вам захочется. Безжалостный криминальный мир станет вашим, если у вас хватит смелости его покорить.
+https://www.youtube.com/watch?v=mtyOXKB0M5o
+6,7
+40,8
+GrandTheftAuto3.exe
+6000
+Far Cry 3
+Ubisoft Toronto
+приключения
+29
+11
+2012
+Откройте темные секреты беззаконного острова, управляемого насилием, и сражайтесь с врагом, когда вы пытаетесь сбежать. Тебе понадобится больше, чем удача, чтобы выжить!
+https://www.youtube.com/watch?v=J6gnOVJsCsM
+8,5
+8,1
+FarCry3.exe
+15000
+2
+Far Cry 3
+Ubisoft Toronto
+приключения
+29
+11
+2012
+Откройте темные секреты беззаконного острова, управляемого насилием, и сражайтесь с врагом, когда вы пытаетесь сбежать. Тебе понадобится больше, чем удача, чтобы выжить!
+https://www.youtube.com/watch?v=J6gnOVJsCsM
+8,5
+8,1
+FarCry3.exe
+15000
+Elden Ring
+FromSoftware Inc.
+экшен
+25
+2
+2022
+Восстань, погасшая душа! Междуземье ждёт своего повелителя. Пусть благодать приведёт тебя к Кольцу Элден.
+https://www.youtube.com/watch?v=AKXiKBnzpBQ
+10
+17,1
+EldenRing.exe
+60000
+5
+Stray
+BlueTwelve Studio
+приключения
+19
+7
+2022
+Потерявшемуся, одинокому, оторванному от семьи бродячему коту предстоит разгадать древнюю тайну, вырваться из давно заброшенного кибергорода и найти дорогу домой.
+https://www.youtube.com/watch?v=kJawWyRUOBM
+9,5
+13,6
+Stray.exe
+10000
+Assassin's Creed Valhalla
+Ubisoft Toronto
+rpg
+6
+12
+2022
+Вам предстоит пройти путь к славе, сыграв за легендарного викинга. Нападайте на врагов, развивайте селение и усиливайте влияние.
+https://www.youtube.com/watch?v=rKjUAWlbTJk
+6,8
+24,9
+AssassinsCreedValhalla.exe
+150000
+Undertale
+tobyfox
+rpg
+15
+9
+2015
+UNDERTALE! Игра RPG, где вы не должны уничтожить никого.
+https://www.youtube.com/watch?v=1Hojv0m3TqA
+9,6
+4,6
+Undertale.exe
+200
+PUBG: BATTLEGROUNDS
+KRAFTON
+шутер
+21
+12
+2017
+Играйте В PUBG: BATTLEGROUNDS бесплатно. Высаживайтесь в стратегически важных местах, добывайте оружие и припасы и постарайтесь выжить и остаться последней командой на одном из многочисленных полей боя.
+https://www.youtube.com/watch?v=u1oqfdh4xBY
+6,6
+0
+PUBG_BATTLEGROUNDS.exe
+40000
+Sid Meier’s Civilization VI
+Firaxis Games
+стратегия
+21
+10
+2016
+Сыграйте за одного из 20 императоров.
+https://www.youtube.com/watch?v=5KdE0p2joJw
+8,7
+14,2
+CivilizationVI.exe
+17000
+Mark S
+good_boy
+sweet_mark@gmail.com
+UK
+happYHippo21
+Ha! Rickrolled you!
+1000
+1
+Endless Legend
+AMPLITUSE Studios
+стратегия
+18
+9
+2014
+Endless Legend — глобальная пошаговая стратегия от создателей Endless Space и Dungeon of the Endless. Спасите свой родной мир, Ауригу, управляя всеми аспектами развития своей цивилизации. Создайте собственную легенду!
+https://www.youtube.com/watch?v=OsMa9EC3nf8
+8,9
+10,3
+EndlessLegend.exe
+6000
+0
+4
+Aliens: Dark Descent
+Tindalos Interactive
+стратегия
+19
+6
+2023
+Отправьтесь в захватывающее путешествие с Aliens: Dark Descent — отрядном однопользовательском экшном в культовой вселенной «Чужих». Остановите распространение нового жуткого вида ксеноморфов на луне Лета, командуя солдатами в реальном времени.
+https://www.youtube.com/watch?v=Iy6hrrAsJkU
+8,7
+23
+AliensDarkDescent.exe
+60000
+The Forest
+Endnight Games Ltd
+выживание
+30
+4
+2018
+Как единственный выживший в авиакатастрофе пассажира, вы оказываетесь в таинственном лесу, сражаясь за жизнь против общества мутантов-людоедов. Постройте, исследуйте, выживите в этом ужасающем симуляторе ужасов от первого лица.
+https://www.youtube.com/watch?v=7mwn5U2PNvk
+9,5
+7,6
+TheForest.exe
+5000
+Sons Of The Forest
+Endnight Games Ltd
+выживание
+23
+4
+2023
+Посланный найти пропавшего миллиардера на отдаленном острове, вы оказываетесь в кишащем каннибалами аду. Ремесло, строительство и борьба, чтобы выжить, в одиночку или с друзьями, в этом ужасающем новом открытом мире симулятор выживания ужасов.
+https://www.youtube.com/watch?v=8sghWJKPWno
+8,3
+16,3
+SonsOfTheForest.exe
+20000
+7 Days to Die
+The Fun Pimps
+выживание
+7 Days to Die — это единственная в своем роде игра с открытым миром, сочетающая в себе элементы шутера от первого лица, хоррора на выживание, защиты замка и ролевой игры.
+https://www.youtube.com/watch?v=Dt9EzY6FBWw
+8,8
+8,9
+7DaysToDie.exe
+15000
+Giga N**a
+giga_nigga
+gigaman@gmail.com
+USA
+1gigapasSword9
+Who tf is giga nigga? Is that me?
+762
+4
+Amnesia: The Bunker
+Fictional Games
+хоррор
+6
+6
+2023
+Amnesia: The Bunker — хоррор от 1-го лица, действие которого происходит в заброшенном бункере времён 1-й мировой войны. Столкнитесь с угнетающими страхами, преследующими вас во тьме. Ищите и используйте доступные инструменты и оружие.
+https://www.youtube.com/watch?v=5V3Si-MbUao
+9,2
+14
+AmnesiaTheBunker.exe
+35000
+Amnesia: Rebirth
+Fictional Games
+хоррор
+20
+10
+2020
+Новое погружение во тьму от создателей культовой серии Amnesia. Преодолевая отчаяние и безысходность, вам предстоит проверить на прочность человеческую способность выносить страдания.
+https://www.youtube.com/watch?v=zZGDBBk89Vk
+6,9
+16,3
+AmnesiaRebirth.exe
+35000
+Amnesia: A Machine for Pigs
+Fictional Games
+хоррор
+10
+9
+2013
+Темное Происхождение и Дорогая Эстер приходит новый ужас от первого лица, который затянет вас в глубины жадности, власти и безумия. Она засунет свою морду тебе в рёбра и сожрёт твоё сердце.
+https://www.youtube.com/watch?v=2ZV6Fwx_Sf4
+6,8
+11,3
+AmnesiaAMachineForPigs.exe
+5000
+Amnesia: The Dark Descent
+Fictional Games
+хоррор
+8
+9
+2010
+Амнезия: Темный спуск, первый человек, ужас выживания. Игра об погружении, открытии и жизни в кошмаре. Опыт, который охладит вас до глубины души.
+https://www.youtube.com/watch?v=u1nY_5-UrY4
+9,5
+11,3
+AmnesiaTheDarkDescent.exe
+3000
+2
+Amnesia: A Machine for Pigs
+Fictional Games
+хоррор
+10
+9
+2013
+Темное Происхождение и Дорогая Эстер приходит новый ужас от первого лица, который затянет вас в глубины жадности, власти и безумия. Она засунет свою морду тебе в рёбра и сожрёт твоё сердце.
+https://www.youtube.com/watch?v=2ZV6Fwx_Sf4
+6,8
+11,3
+AmnesiaAMachineForPigs.exe
+5000
+Amnesia: The Bunker
+Fictional Games
+хоррор
+6
+6
+2023
+Amnesia: The Bunker — хоррор от 1-го лица, действие которого происходит в заброшенном бункере времён 1-й мировой войны. Столкнитесь с угнетающими страхами, преследующими вас во тьме. Ищите и используйте доступные инструменты и оружие.
+https://www.youtube.com/watch?v=5V3Si-MbUao
+9,2
+14
+AmnesiaTheBunker.exe
+35000
+3
+Grand Theft Auto V
+Rockstar Games
+экшен
+14
+4
+2015
+Grand Theft Auto V для PC позволяет игрокам исследовать знаменитый мир Лос-Сантоса и округа Блэйн в разрешении до 4k и выше с частотой 60 кадров в секунду.
+https://www.youtube.com/watch?v=QkkoHAzjnUs
+9,7
+22,8
+GrandTheftAuto5.exe
+85000
+Fallout 4
+Bathesda Game Studios
+приключения
+10
+11
+2015
+Bethesda Game Studios, создатель популярнейших игр Fallout 3 и The Elder Scrolls V: Skyrim, приглашает вас в мир Fallout 4 – своей самой грандиозной игры нового поколения с открытым миром.
+https://www.youtube.com/watch?v=XW7Of3g2JME
+8,3
+9,5
+Fallout4.exe
+30000
+Stellaris
+Paradox Development Studio
+стратегия
+9
+5
+2016
+Исследуйте полную чудес галактику в научно-фантастической глобальной стратегии от Paradox Development Studios. Знакомьтесь с инопланетянами разных рас, открывайте новые планеты, справляйтесь с неожиданными испытаниями и расширяйте границы своей вселенной.
+https://www.youtube.com/watch?v=zW3YB2ptGws
+8,7
+13
+Stellaris.exe
+10000
+Antony Travolier
+Mad_Cats
+antony7532@gmail.com
+France
+wHopper123
+Harder, better, faster, stronger whopper
+1723
+5
+Half-Life
+Valve
+экшен
+8
+11
+1998
+Боевик, приключения и удостоенная наград технология создания потрясающе реалистичного мира, в котором игрок должен думать, чтобы выживать — всё это обладатель звания «Игра года» от более чем 50 изданий, дебютная игра от Valve — Half-Life.
+https://www.youtube.com/watch?v=wtIp8jOo8_o
+9,3
+4,6
+HalfLife.exe
+70000
+Half-Life 2
+Valve
+экшен
+16
+11
+2004
+1998 год. HALF-LIFE шокирует игровую индустрию сочетанием напряженного действия и непрерывного, затягивающего сюжета. Дебютная игра Valve завоевала свыше 50 наград «Игра года».
+https://www.youtube.com/watch?v=ID1dWN3n7q4
+9,6
+6,2
+HalfLife2.exe
+6400
+Ведьмак 3: Дикая Охота
+CD PROJEKT RED
+экшен
+18
+5
+2015
+Вы — Геральт из Ривии, наемный убийца чудовищ. Вы путешествуете по миру, в котором бушует война и на каждом шагу подстерегают чудовища. Вам предстоит выполнить заказ и найти Цири — Дитя Предназначения, живое оружие, способное изменить облик этого мира.
+https://www.youtube.com/watch?v=c0i88t0Kacs
+9,2
+14,6
+TheWitcher3.exe
+32000
+Assassin's Creed Valhalla
+Ubisoft Toronto
+rpg
+6
+12
+2022
+Вам предстоит пройти путь к славе, сыграв за легендарного викинга. Нападайте на врагов, развивайте селение и усиливайте влияние.
+https://www.youtube.com/watch?v=rKjUAWlbTJk
+6,8
+24,9
+AssassinsCreedValhalla.exe
+150000
+Outlast
+Red Barrels
+хоррор
+4
+9
+2013
+Hell - это эксперимент, в котором невозможно выжить в Outlast, игре ужасов от первого лица, разработанной ветеранами одной из крупнейших игровых франшиз в истории. Как журналист-расследователь Майлз Апшур, исследуйте Маунт Мэссив Убежище и постарайтесь выжить достаточно долго, чтобы раскрыть его страшный секрет...
+https://www.youtube.com/watch?v=uKA-IA4locM
+9,6
+11,3
+Outlast.exe
+5000
+2
+Outlast
+Red Barrels
+хоррор
+4
+9
+2013
+Hell - это эксперимент, в котором невозможно выжить в Outlast, игре ужасов от первого лица, разработанной ветеранами одной из крупнейших игровых франшиз в истории. Как журналист-расследователь Майлз Апшур, исследуйте Маунт Мэссив Убежище и постарайтесь выжить достаточно долго, чтобы раскрыть его страшный секрет...
+https://www.youtube.com/watch?v=uKA-IA4locM
+9,6
+11,3
+Outlast.exe
+5000
+Half-Life 2
+Valve
+экшен
+16
+11
+2004
+1998 год. HALF-LIFE шокирует игровую индустрию сочетанием напряженного действия и непрерывного, затягивающего сюжета. Дебютная игра Valve завоевала свыше 50 наград «Игра года».
+https://www.youtube.com/watch?v=ID1dWN3n7q4
+9,6
+6,2
+HalfLife2.exe
+6400
+0
+Boyko Alex
+random_gamer
+boyko.alex@gmail.com
+Ukraine
+pAlyAnitsA_987
+Смотрю Данкара.
+3455
+1
+Aliens: Dark Descent
+Tindalos Interactive
+стратегия
+19
+6
+2023
+Отправьтесь в захватывающее путешествие с Aliens: Dark Descent — отрядном однопользовательском экшном в культовой вселенной «Чужих». Остановите распространение нового жуткого вида ксеноморфов на луне Лета, командуя солдатами в реальном времени.
+https://www.youtube.com/watch?v=Iy6hrrAsJkU
+8,7
+23
+AliensDarkDescent.exe
+60000
+1
+Aliens: Dark Descent
+Tindalos Interactive
+стратегия
+19
+6
+2023
+Отправьтесь в захватывающее путешествие с Aliens: Dark Descent — отрядном однопользовательском экшном в культовой вселенной «Чужих». Остановите распространение нового жуткого вида ксеноморфов на луне Лета, командуя солдатами в реальном времени.
+https://www.youtube.com/watch?v=Iy6hrrAsJkU
+8,7
+23
+AliensDarkDescent.exe
+60000
+7
+The Forest
+Endnight Games Ltd
+выживание
+30
+4
+2018
+Как единственный выживший в авиакатастрофе пассажира, вы оказываетесь в таинственном лесу, сражаясь за жизнь против общества мутантов-людоедов. Постройте, исследуйте, выживите в этом ужасающем симуляторе ужасов от первого лица.
+https://www.youtube.com/watch?v=7mwn5U2PNvk
+9,5
+7,6
+TheForest.exe
+5000
+Amnesia: The Bunker
+Fictional Games
+хоррор
+6
+6
+2023
+Amnesia: The Bunker — хоррор от 1-го лица, действие которого происходит в заброшенном бункере времён 1-й мировой войны. Столкнитесь с угнетающими страхами, преследующими вас во тьме. Ищите и используйте доступные инструменты и оружие.
+https://www.youtube.com/watch?v=5V3Si-MbUao
+9,2
+14
+AmnesiaTheBunker.exe
+35000
+Sid Meier’s Civilization VI
+Firaxis Games
+стратегия
+21
+10
+2016
+Сыграйте за одного из 20 императоров.
+https://www.youtube.com/watch?v=5KdE0p2joJw
+8,7
+14,2
+CivilizationVI.exe
+17000
+The Elder Scrolls V: Skyrim
+Bathesda Game Studios
+rpg
+28
+11
+2016
+Skyrim сохраняет концепцию большого и открытого мира, характерную для серии The Elder Scrolls. Игрок может свободно странствовать по всей территории провинции Скайрим, включающей в себя девять крупных городов, множество мелких селений, а также обширные пространства диких земель и высоких гор.
+https://www.youtube.com/watch?v=JSRtYpNRoN0
+9,5
+17,7
+Skyrim.exe
+12000
+Stray
+BlueTwelve Studio
+приключения
+19
+7
+2022
+Потерявшемуся, одинокому, оторванному от семьи бродячему коту предстоит разгадать древнюю тайну, вырваться из давно заброшенного кибергорода и найти дорогу домой.
+https://www.youtube.com/watch?v=kJawWyRUOBM
+9,5
+13,6
+Stray.exe
+10000
+Forever Skies
+Far From Home
+выживание
+22
+6
+2023
+Forever Skies это игра про выживание с видом от первого лица. Вернитесь на Землю, разрушенную экологической катастрофой, управляйте высокотехнологичным дирижаблем, модернизируйте и чините его.
+https://www.youtube.com/watch?v=2_1MqAWC2OU
+8,9
+16,3
+ForeverSkies.exe
+31000
+Call of Duty: Modern Warfare
+Infinity Ward
+шутер
+8
+3
+2023
+Пройдите захватывающую кампанию или соберите команду на уникальной онлайн-площадке с многочисленными испытаниями в 'Спецоперациях' в сочетании с сетевыми режимами и картами.
+https://www.youtube.com/watch?v=bH1lHCirCGI
+8
+54,4
+CallofDutyModernWarfare.exe
+175000

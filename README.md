@@ -1,4 +1,4 @@
-# Game Store — Console Application (C++)
+# DragonForce - Console Game Store (C++)
 
 This console-based application simulates a digital video game store similar to Steam.
 Users can browse available games, view detailed descriptions, add games to their library,

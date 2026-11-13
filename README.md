@@ -8,7 +8,7 @@ categorization, player profile management, and the ability for admins to edit ga
 Designed to practice object-oriented programming, file handling, and user interaction
 in a console environment.
 
-**Context:** final project of the C++ course, IT STEP, 2022
+**Context:** final project of the C++ course, IT STEP, 2023
 **Technologies:** C++, OOP, file I/O, Visual Studio
 
 ## How to run
